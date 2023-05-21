@@ -25,5 +25,6 @@ int^ Pointt::Get_X()
 
 int^ Pointt::Get_Y()
 {
+
 	return Y;
 }
