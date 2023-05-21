@@ -19,6 +19,7 @@ Pointt::Pointt(int^ X, int^ Y)
 
 int^ Pointt::Get_X()
 {
+
 	return X;
 }
 
